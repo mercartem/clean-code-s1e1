@@ -50,11 +50,13 @@ ul {
   padding: 0px;
 }
 
-li, h3 {
+li, 
+h3 {
   list-style: none;
 }
 
-input, button {
+input, 
+button {
   outline: none;
 }
 
@@ -153,11 +155,6 @@ input, button {
 }
 
 /* Completed */
-
-/* .section-completed__label {
-  text-decoration: line-through;
-  color: #888;
-} */
 
 ul.section-completed label {
   text-decoration: line-through;
