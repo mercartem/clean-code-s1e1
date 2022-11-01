@@ -156,7 +156,7 @@ button {
 
 /* Completed */
 
-ul.section-completed label {
+.section-completed .section__label {
   text-decoration: line-through;
   color: #888;
 }
